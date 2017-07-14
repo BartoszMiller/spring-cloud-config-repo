@@ -1,0 +1,10 @@
+rds:
+  server:
+    options: UAT-server.options
+    arguments: UAT-server.arguments
+  client:
+    options: UAT-client.options
+    arguments: UAT-client.arguments
+  scheduler:
+    options: UAT-scheduler.options
+    arguments: UAT-scheduler.arguments

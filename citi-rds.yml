@@ -1,0 +1,10 @@
+rds:
+  server:
+    options: default-server.options
+    arguments: default-server.arguments
+  client:
+    options: default-client.options
+    arguments: default-client.arguments
+  scheduler:
+    options: default-scheduler.options
+    arguments: default-scheduler.arguments

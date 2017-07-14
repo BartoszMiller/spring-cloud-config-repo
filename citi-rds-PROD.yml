@@ -1,0 +1,10 @@
+rds:
+  server:
+    options: PROD-server.options
+    arguments: PROD-server.arguments
+  client:
+    options: PROD-client.options
+    arguments: PROD-client.arguments
+  scheduler:
+    options: PROD-scheduler.options
+    arguments: PROD-scheduler.arguments

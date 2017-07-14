@@ -1,0 +1,10 @@
+rds:
+  server:
+    options: SIT-server.options
+    arguments: SIT-server.arguments
+  client:
+    options: SIT-client.options
+    arguments: SIT-client.arguments
+  scheduler:
+    options: SIT-scheduler.options
+    arguments: SIT-scheduler.arguments
