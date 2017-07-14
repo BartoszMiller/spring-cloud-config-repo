@@ -8,3 +8,6 @@ rds:
   scheduler:
     options: PROD-scheduler.options
     arguments: PROD-scheduler.arguments
+  configuration:
+    options: PROD-configuration.options
+    arguments: PROD-configuration.arguments

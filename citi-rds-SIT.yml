@@ -8,3 +8,6 @@ rds:
   scheduler:
     options: SIT-scheduler.options
     arguments: SIT-scheduler.arguments
+  configuration:
+    options: SIT-configuration.options
+    arguments: SIT-configuration.arguments

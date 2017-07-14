@@ -8,3 +8,6 @@ rds:
   scheduler:
     options: UAT-scheduler.options
     arguments: UAT-scheduler.arguments
+  configuration:
+    options: UAT-configuration.options
+    arguments: UAT-configuration.arguments

@@ -8,3 +8,6 @@ rds:
   scheduler:
     options: default-scheduler.options
     arguments: default-scheduler.arguments
+configuration:
+    options: default-configuration.options
+    arguments: default-configuration.arguments
